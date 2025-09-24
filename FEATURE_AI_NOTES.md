@@ -1,0 +1,1 @@
+Basic cookie clicker implementation with cookie counter, multiplier upgrade system, and styled UI. No additional dependencies required.
